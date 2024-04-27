@@ -88,14 +88,6 @@ export const requirementDefineLevelColumns: JVxeColumn[] = [
           { required: true, message: '${title}不能为空' },
         ],
     },
-    {
-      title: '需求定义ID',
-      key: 'rdId',
-      type: JVxeTypes.input,
-      width:"200px",
-      placeholder: '请输入${title}',
-      defaultValue:'',
-    },
   ]
 
 
